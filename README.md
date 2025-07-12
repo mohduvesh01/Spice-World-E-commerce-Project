@@ -1,13 +1,39 @@
-# React + Vite
+# 🌶️ Spice World - E-commerce Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive React-based e-commerce application dedicated to showcasing and selling a variety of **organic Indian spices**. Built using **React.js**, **React Router**, **CSS**, and **Bootstrap**, this project includes smooth navigation, dynamic cart functionality, and a clean UI/UX for users to explore and shop spices with ease.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Click here to visit the live site](https://your-netlify-link.netlify.app)  
+> *(Replace this with your actual Netlify/Vercel link)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Spice-World-E-commerce-Project
+---
+
+## 🚀 Features
+
+- 🧭 Navigation using `React Router`
+- 🛍️ Dynamic "Add to Cart" & "Remove from Cart" functionality
+- 🎨 Styled with `Bootstrap` + custom `CSS`
+- 🔍 Search by spice name
+- 📱 Fully Responsive Design
+- 📦 Organized project structure with reusable components
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology      | Description                      |
+|-----------------|----------------------------------|
+| React.js        | Frontend Framework               |
+| React Router DOM| Page Routing                     |
+| Bootstrap       | Styling Framework                |
+| Custom CSS      | Component styling                |
+| Netlify         | Deployment Platform (optional)   |
+| Git + GitHub    | Version Control                  |
+
+---
+
+## 📁 Folder Structure
+
