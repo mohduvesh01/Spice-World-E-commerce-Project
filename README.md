@@ -35,5 +35,5 @@ A modern and responsive React-based e-commerce application dedicated to showcasi
 
 ---
 
-## 📁 Folder Structure
+
 
